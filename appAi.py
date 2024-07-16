@@ -1,10 +1,8 @@
 from flask import Flask, request, jsonify, render_template
-from flask_cors import CORS
 import pickle
 import numpy as np
 
 app = Flask(__name__, template_folder='template',static_folder='static')
-CORS(app)
 # Load your trained model
 model = pickle.load(open('trainedmodel.pkl','rb'))
 
