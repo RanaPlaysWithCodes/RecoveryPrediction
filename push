@@ -1,0 +1,17 @@
+[33mcommit a8d799189ab167124b9a1a440bf25868e433d878[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31mheroku/main[m[33m)[m
+Author: RanaisCoding <143005394+RanaisCoding@users.noreply.github.com>
+Date:   Tue Jul 16 23:21:18 2024 +0300
+
+    Add gunicorn to requirements.txt
+
+[33mcommit 1f5c9f12ce22690e2fdb7c9d532b55f1be2982b6[m
+Author: RanaisCoding <143005394+RanaisCoding@users.noreply.github.com>
+Date:   Tue Jul 16 21:17:42 2024 +0300
+
+    my first commit
+
+[33mcommit 33bb79f07b7cac61115b659e5e54a75301a5d35b[m
+Author: RanaisCoding <143005394+RanaisCoding@users.noreply.github.com>
+Date:   Tue Jul 16 20:32:47 2024 +0300
+
+    Initial commit

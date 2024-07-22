@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify, render_template
 import pickle
 import numpy as np
+from waitress import serve
 
 app = Flask(__name__, template_folder='template',static_folder='static')
 # Load your trained model
