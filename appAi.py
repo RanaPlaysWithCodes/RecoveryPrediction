@@ -4,7 +4,7 @@ import numpy as np
 
 app = Flask(__name__, template_folder='template',static_folder='static')
 # Load your trained model
-model = pickle.load(open('trainedmodel.pkl','rb'))
+model = pickle.load(open('lrg_model.pkl','rb'))
 
 @app.route('/')
 def home():
